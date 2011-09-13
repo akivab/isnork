@@ -1,8 +1,8 @@
 Map "empty" contains no creatures of either positive or negative values.  Our
 group wants to experiment with getting divers to cluster together in small
-groups, an a map with no other stimuli will be excellent for testing our
+groups, and a map with no other stimuli will be excellent for testing our
 clustering algorithms.  It is also good for testing raw exploration algorithms:
 some of last year's divers performed abysmally on this map, essentially giving
-up without even exploring the whole board.  Others seemed to do quite well:
-moving around in random patterns, and returning to the boat only at the very
+up without even exploring the whole board.  Others seemed to do quite well,
+moving around in random patterns and returning to the boat only at the very
 end.
